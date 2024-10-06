@@ -5,3 +5,4 @@ En "Diagrama", se puede ver el diagrama de flujo que muestra el paso a paso de e
 
 La solución está pensada para trabajar así [Extracción de capas con Google Earth Engine] > [Almacenamiento en repositorio Google Cloud] > [Enlace del Bucket de Google Cloud con Looker studio de Google para diseñar un tablero de control abierto al público]
 
+Creamos una pequeña página web con la que hicimos nuestro discurso de presentación, aquí dejo el enlace, copialo y pégalo en la barra del navegador: https://bochicas.my.canva.site/
